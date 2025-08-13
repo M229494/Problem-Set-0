@@ -24,16 +24,20 @@ Tip Calculator
 Task: Calculate the tip based on a dollar amount and a percentage.
 Concepts: String manipulation, type conversion, arithmetic
 
-How to Run
 
-Make sure you have Python 3 installed. Then run:
-
-```bash
-python pset0.py
 
 What I Learned
 
 How to use string methods like `.lower()` and `.replace()`
 How to handle user input
 Simple arithmetic using Python
+
+
+
+How to Run
+
+Make sure you have Python 3 installed. Then run:
+
+```bash
+python pset0.py
 
