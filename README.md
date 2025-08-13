@@ -34,10 +34,25 @@ Simple arithmetic using Python
 
 
 
-How to Run
 
-Make sure you have Python 3 installed. Then run:
+How to Run the Code
 
-```bash
-python pset0.py
+To run any of the problem solutions:
+
+1. Download or Clone the Repository
+
+   Click the green Code button on this page and select Download ZIP, then unzip it  
+   OR  
+   Clone with Git:
+     ```bash
+     git clone https://github.com/your-username/Problem-Set-0.git
+     cd "Problem Set-0"
+     
+
+2. Make sure Python is installed
+
+   Open a terminal (Command Prompt, PowerShell, or Terminal app), and check:
+
+   ```bash
+   python --version
 
