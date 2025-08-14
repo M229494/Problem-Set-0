@@ -16,7 +16,7 @@ Faces
 Task: Replace `:)` with `🙂` and `:(` with `🙁`.
 Concepts: String replacement, emojis
 
-4️⃣ Einstein
+Einstein
 Task: Convert mass to energy using `E = mc²` (with c = 300000000).
 Concepts: Math, constants, input parsing
 
